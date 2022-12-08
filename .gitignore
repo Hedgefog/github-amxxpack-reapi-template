@@ -1,0 +1,8 @@
+*.amxx
+*.max
+*.log
+
+node_modules/
+dist/
+.compiler/
+.thirdparty/
