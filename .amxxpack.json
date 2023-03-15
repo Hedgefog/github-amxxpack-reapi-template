@@ -21,10 +21,11 @@
     "assets": "./assets"
   },
   "output": {
-    "plugins": "./dist/build/addons/amxmodx/plugins",
-    "scripts": "./dist/build/addons/amxmodx/scripting",
-    "include": "./dist/build/addons/amxmodx/scripting/include",
-    "assets": "./dist/build"
+    "base": "./dist/build",
+    "plugins": "./addons/amxmodx/plugins",
+    "scripts": "./addons/amxmodx/scripting",
+    "include": "./addons/amxmodx/scripting/include",
+    "assets": "./"
   },
   "rules": {
     "flatCompilation": true
