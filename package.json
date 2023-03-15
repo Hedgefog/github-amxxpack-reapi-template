@@ -11,7 +11,7 @@
   "author": "AMXXPack",
   "license": "MIT",
   "devDependencies": {
-    "amxxpack": "^1.4.1",
+    "amxxpack": "^1.4.3",
     "gulp": "^4.0.2",
     "gulp-file": "^0.4.0",
     "gulp-zip": "^5.0.2",
